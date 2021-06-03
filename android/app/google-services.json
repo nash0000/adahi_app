@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "437565360266",
+    "project_id": "adahi1",
+    "storage_bucket": "adahi1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437565360266:android:4cd9521b37d4444adac573",
+        "android_client_info": {
+          "package_name": "com.nashmeyah.adahi_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "437565360266-i2053jv8nej4nca0grs5pbld2n4ducfr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkQ9X96EimdyAVxlTNtZiWSYcRQkycIVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "437565360266-i2053jv8nej4nca0grs5pbld2n4ducfr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

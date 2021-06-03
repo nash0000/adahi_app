@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>437565360266-7hqi4bddut9krhopit76p1jjiv7jnruu.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+     <key>NSAppTransportSecurity</key>
+     <dict>
+    <key>NSAllowsLocalNetworking</key>
+    <true/>
+     </dict>
+
+
+	<string>com.googleusercontent.apps.437565360266-7hqi4bddut9krhopit76p1jjiv7jnruu</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAsrSD9y4_P2CtPSiUwgCVz7Xleo8SW0yY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>437565360266</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.nashmeyah.adahiApp</string>
+	<key>PROJECT_ID</key>
+	<string>adahi1</string>
+	<key>STORAGE_BUCKET</key>
+	<string>adahi1.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:437565360266:ios:7f4331a1fa860596dac573</string>
+</dict>
+</plist>
